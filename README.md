@@ -1,8 +1,8 @@
 # Comandos da aplicação
 
 - [x] `yarn` _iniciar o projeto depois de clonado_
-- [] `yarn test` _testar o projeto_
-- [] `yarn dev` _rodar o servidor em desenvolvimento_
+- [x] `yarn test` _testar o projeto_
+- [x] `yarn dev` _rodar o servidor em desenvolvimento_
 - [] `yarn build` _rodar o servidor em produção_
 
 ### Passos do Desafio
